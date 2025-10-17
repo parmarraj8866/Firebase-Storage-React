@@ -28,8 +28,7 @@ The app allows users to **add, update, view, and delete products** with a clean 
 
 ---
 
-## 🚀 Installation
+![Home](images/home.png)
+![Form](images/form.png)
+![View](images/view.png)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/product-management-app.git
