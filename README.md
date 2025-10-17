@@ -28,7 +28,15 @@ The app allows users to **add, update, view, and delete products** with a clean 
 
 ---
 
-![Home]("C:\Users\RAJ PARMAR\OneDrive\Desktop\Github Project Images ( RAJ )\firestore-Form.png")
-![Form](images/form.png)
-![View](images/view.png)
+## 🖼 Screenshots
+
+### 1️⃣ Home / Product List
+![Home](/firestore-Home.png)
+
+### 2️⃣ Add / Update Product Form
+![Form](/firestore-Form.png)
+
+### 3️⃣ View Product Details
+![View](/firestore-SingalProduct%20View.png)
+
 
